@@ -1,8 +1,8 @@
 ## Hi there, my name is Thiago 👋
 
-# Studying Informatics at IFMS
+# Informatics Student at IFMS
 
-** FreeBSD User | Studying OS Internals, Security & Networks**
+FreeBSD User | Studying OS Internals, Security & Networks
 
 
 
