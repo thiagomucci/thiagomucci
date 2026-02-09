@@ -2,7 +2,7 @@
 
 # Informatics Student at IFMS
 
-FreeBSD User | Studying OS Internals, Security & Networks
+FreeBSD Enthusiast | Studying OS Internals, Security & Networks
 
 
 
