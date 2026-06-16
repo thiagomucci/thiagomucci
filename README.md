@@ -10,9 +10,9 @@
     <td align="left" valign="middle" style="padding-left: 20px;">
       <h2>Hey there, I'm Thiago Mucci.</h2>
       <p>I am an <strong>Information Technology</strong> student at <strong>IFMS</strong></p>
-      <p> On the web, I build scalable backend systems and modern interfaces using node.js ecosystem and utilities like <strong>NestJS, Next.js, and Prisma</strong>. </p>
+      <p>On the web, I build scalable backend systems and modern interfaces using node.js ecosystem and utilities like <strong>NestJS, Next.js, and Prisma</strong>. </p>
       <p>Under the hood, I enjoy exploring core concepts through <strong>C, C++, and Linux environments</strong>.</p>
-      <p> <strong>Open Source:</strong> I enjoy collaborating with the community and active contributing to open-source projects.</p>
+      <p>I also enjoy collaborating with the community and active contributing to open-source projects.</p>
       <p>looking to optimize performance, write clean code, and automate workflows via shell scripting.</p>
     </td>
   </tr>
