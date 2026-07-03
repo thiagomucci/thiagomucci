@@ -4,7 +4,7 @@
   <tr>
     <!-- Coluna da Foto -->
     <td align="center" valign="middle">
-      <img src="https://github.com/thiagomucci.png" width="800px" style="border-radius: 50%;" alt="Thiago Mucci"/>
+      <img src="https://github.com/user-attachments/assets/f41b2c10-5be9-4de7-8250-fbd8e96fc007" width="500px" style="border-radius: 50%;" alt="Thiago Mucci"/>
     </td>
     <!-- Coluna do Texto -->
     <td align="left" valign="middle" style="padding-left: 20px;">
