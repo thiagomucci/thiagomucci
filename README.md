@@ -43,6 +43,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Emacs Lisp](https://img.shields.io/badge/Emacs_Lisp-%237F5AB6.svg?style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
 ## Github Stats
 <div align="center">
